@@ -12,5 +12,8 @@
 	"calculation_strategy": "fixed",
 	"fixed_config": {
 		"power": 0.82
-	}
+	},
+    "aliases": [
+        "Shelly Plus Plug S"
+    ]
 }
